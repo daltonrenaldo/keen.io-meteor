@@ -1,0 +1,9 @@
+{
+  "name": "keen.io",
+  "description": "Meteor wrapper of Keen IO: an online service to collect, analyze, and visualize your data.",
+  "homepage": "https://github.com/daltonrenaldo/keen.io-meteor",
+  "author": "Your Name <pirelouisd87@gmail.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/daltonrenaldo/keen.io-meteor.git",
+  "packages": {}
+}
