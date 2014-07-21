@@ -5,8 +5,8 @@ Package.describe({
 Npm.depends({"keen.io" : "0.1.2"})
 
 Package.on_use(function (api, where) {
-  api.add_files('keen.js', ['client', 'server']);
+  api.add_files('keen.js', ['server']);
   if (typeof api.export !== 'undefined') {
-    api.export(['Keen'], ['client', 'server']);
+    api.export(['Keen'], ['server']);
   }
 });

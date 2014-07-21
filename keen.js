@@ -1,1 +1,1 @@
-var Keen = require('keen.io');
+Keen = Npm.require('keen.io');
